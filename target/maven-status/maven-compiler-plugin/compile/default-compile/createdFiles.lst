@@ -1,0 +1,6 @@
+com/martinezsoft/peoplelist/model/People.class
+com/martinezsoft/peoplelist/database/HibernateSessionFactory.class
+com/martinezsoft/peoplelist/controller/PeopleController.class
+com/martinezsoft/peoplelist/service/PeopleService.class
+com/martinezsoft/peoplelist/PeopleListApp.class
+com/martinezsoft/peoplelist/configuration/PeopleListConfiguration.class
