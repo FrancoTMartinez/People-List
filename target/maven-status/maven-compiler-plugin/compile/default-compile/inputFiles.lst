@@ -1,6 +1,6 @@
-/home/francotmartinez/Programming/Proyectos/People-List-Docker/src/main/java/com/martinezsoft/peoplelist/controller/PeopleController.java
-/home/francotmartinez/Programming/Proyectos/People-List-Docker/src/main/java/com/martinezsoft/peoplelist/database/HibernateSessionFactory.java
-/home/francotmartinez/Programming/Proyectos/People-List-Docker/src/main/java/com/martinezsoft/peoplelist/model/People.java
-/home/francotmartinez/Programming/Proyectos/People-List-Docker/src/main/java/com/martinezsoft/peoplelist/configuration/PeopleListConfiguration.java
-/home/francotmartinez/Programming/Proyectos/People-List-Docker/src/main/java/com/martinezsoft/peoplelist/service/PeopleService.java
-/home/francotmartinez/Programming/Proyectos/People-List-Docker/src/main/java/com/martinezsoft/peoplelist/PeopleListApp.java
+/home/malfaro/Development/People-List/src/main/java/com/martinezsoft/peoplelist/configuration/PeopleListConfiguration.java
+/home/malfaro/Development/People-List/src/main/java/com/martinezsoft/peoplelist/PeopleListApp.java
+/home/malfaro/Development/People-List/src/main/java/com/martinezsoft/peoplelist/service/PeopleService.java
+/home/malfaro/Development/People-List/src/main/java/com/martinezsoft/peoplelist/database/HibernateSessionFactory.java
+/home/malfaro/Development/People-List/src/main/java/com/martinezsoft/peoplelist/controller/PeopleController.java
+/home/malfaro/Development/People-List/src/main/java/com/martinezsoft/peoplelist/model/People.java

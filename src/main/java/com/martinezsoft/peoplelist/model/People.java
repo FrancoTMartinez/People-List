@@ -37,6 +37,8 @@ public class People {
     @Column(name ="PHONE")
     private String phone = null;
 
+    public People() {}
+
     public People(String id, String name, String date, String adress, String email, String phone) {
         this.id = id;
         this.name = name;
